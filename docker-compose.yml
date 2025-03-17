@@ -1,6 +1,6 @@
 services:
   postgis_pgvector:
-    # image: valazj/postgis_pgvector:0.1.0
+    # image: valazj/postgis_pgvector:0.1.1
     container_name: postgis_pgvector
     build:
       context: .
